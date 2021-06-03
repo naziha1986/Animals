@@ -34,3 +34,12 @@ if (useryear > 1986) {
 } else{
   alert("hi")
 }
+
+
+  var pressabutton;
+var r = confirm("Press a button!");
+if (r == true) {
+  pressabutton = "You pressed OK!";
+} else {
+  pressabutton = "You pressed Cancel!";
+}
