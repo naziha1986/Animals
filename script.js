@@ -18,19 +18,18 @@ console.log(y === x);
 console.log(y !== x);
 // show the opposite answer
 
-prompt("enter your lucky number?")
-var luckynumber = 14;
-if (userluckynumber = 14) {
+var userluckynumber =prompt("enter your lucky number?","14");
+if (userluckynumber == 14) {
   alert("meeee too")
 } else {
   alert("that's a good one")
 }
 
-prompt("enter your year of birth?")
-var year = 1986;
-if (userYear >= 1986) {
+var useryear = prompt("enter your year of birth?","1986");
+
+if (useryear > 1986) {
   alert("just like me")
-} else if(year < 1986) {
+} else if(useryear < 1986) {
   alert("welcome")
 } else{
   alert("hi")
