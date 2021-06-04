@@ -34,7 +34,7 @@ if (userluckynumber == 14) {
 
 var useryear = prompt("enter your year of birth?");
 
-if (useryear > 1986) {
+if (useryear = 1986) {
   alert("just like me")
 } else if(useryear < 1986) {
   alert("welcome")
