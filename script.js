@@ -2,11 +2,11 @@
 alert("welcome every one,nice to meet you")
 
 var userName;
-userName = "naziha nawasmeh";
+userName = "Naziha Qawasmeh";
 
 console.log(userName);
 
-document.write("<p style='color:brown;'> this is " + userName + " from js </p>")
+document.write("<p style='color:brown;'> this is " + userName + " from JS </p>")
 var x = "10";
 var y = 20;
 
@@ -33,4 +33,13 @@ if (useryear > 1986) {
   alert("welcome")
 } else{
   alert("hi")
+}
+
+
+  var pressabutton;
+var r = confirm("Press a button!");
+if (r == true) {
+  pressabutton = "You pressed OK!";
+} else {
+  pressabutton = "You pressed Cancel!";
 }
