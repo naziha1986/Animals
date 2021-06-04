@@ -23,14 +23,16 @@ console.log(y == 20);
 console.log(y !== x);
 // show the opposite answer
 
-var userluckynumber =prompt("enter your lucky number?","14");
+var userluckynumber =prompt("enter your lucky number?","14")
+// i wrote "14" to display in the msg as a default number
+;
 if (userluckynumber == 14) {
   alert("meeee too")
 } else {
   alert("that's a good one")
 }
 
-var useryear = prompt("enter your year of birth?","1986");
+var useryear = prompt("enter your year of birth?",);
 
 if (useryear > 1986) {
   alert("just like me")
