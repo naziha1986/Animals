@@ -57,6 +57,7 @@ if (useryear == 1986) {
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -69,3 +70,5 @@ if (r == true) {
   pressabutton = "You pressed Cancel!";
 
 }
+=======
+>>>>>>> 33f8a742e70187eb60c864fdfa3c607665865a04
