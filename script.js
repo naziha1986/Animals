@@ -1,4 +1,3 @@
-
 alert("welcome every one,nice to meet you")
 
 var userName;
@@ -56,6 +55,12 @@ if (useryear == 1986) {
 
 
 
+
+
+
+
+
+
 var pressabutton;
 var r = confirm("Press a button!");
 if (r == true) {
@@ -63,10 +68,4 @@ if (r == true) {
 } else {
   pressabutton = "You pressed Cancel!";
 
-
-
- 
-
-
-
-
+}
