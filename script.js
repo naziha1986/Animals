@@ -1,4 +1,3 @@
-
 alert("welcome every one,nice to meet you")
 
 var userName;
@@ -62,11 +61,5 @@ if (r == true) {
   pressabutton = "You pressed OK!";
 } else {
   pressabutton = "You pressed Cancel!";
-
-
-
- 
-
-
 
 
